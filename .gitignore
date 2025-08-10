@@ -62,5 +62,3 @@ xcshareddata/
 
 # API keys / Config files (keep secrets out of repo)
 *.xcconfig
-
-*.pbxproj
